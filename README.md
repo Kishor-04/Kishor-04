@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/programming-background-collage_23-2149901778.jpg?t=st=1729428901~exp=1729432501~hmac=0d613c5e33015cb50930d6781d12d0fde35a9dc37418f0198dcefaecf31bb5d4&w=900)](https://rishavchanda.io)
+[![MasterHead][(https://res.cloudinary.com/djkdzdfry/image/upload/v1754240151/Gemini_Generated_Image_obhc8cobhc8cobhc_kd878g.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Kishor Patil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
