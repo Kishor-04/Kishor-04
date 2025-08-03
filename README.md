@@ -1,4 +1,5 @@
-[![MasterHead](https://res.cloudinary.com/djkdzdfry/image/upload/v1754240151/Gemini_Generated_Image_obhc8cobhc8cobhc_kd878g.png)](https://rishavchanda.io)
+[![MasterHead](./assets/banner.png)](https://rishavchanda.io)
+
 
 
 <h1 align="center">Hi 👋, I'm Kishor Patil</h1>
