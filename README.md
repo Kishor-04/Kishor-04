@@ -1,4 +1,4 @@
-[![MasterHead](./assets/banner.png)]
+![MasterHead](./assets/banner.png)
 
 
 
