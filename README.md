@@ -1,4 +1,4 @@
-[![MasterHead](./assets/banner.png)](https://rishavchanda.io)
+[![MasterHead](./assets/banner.png)]
 
 
 
