@@ -1,5 +1,5 @@
-[![MasterHead]((https://res.cloudinary.com/djkdzdfry/image/upload/v1754240151/Gemini_Generated_Image_obhc8cobhc8cobhc_kd878g.png))
-(https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/djkdzdfry/image/upload/v1754240151/Gemini_Generated_Image_obhc8cobhc8cobhc_kd878g.png)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Kishor Patil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
